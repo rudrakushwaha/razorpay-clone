@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body > div > section.relative.bg-deepBlue{
+    background-color: #02042B;
+}
+.bg-deepBlue{
+    background-color: #02042B;
+}
+body > div > nav > div > div > button.py-3.px-4.font-mullish.rounded-sm.text-sm.font-bold.bg-white.text-lightBlue300.border.transition-all.duration-200.hover\:text-lightBlue500.hidden.lg\:flex{
+    color: #1F7DE9;
+}
+
+body > div > section.relative.mt-\[190px\].overflow-hidden > div > div.w-full.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3.gap-4.mt-10 h3{
+    color: #162F56;
+}
+body > div > section.relative.mt-\[190px\].overflow-hidden > div > div.w-full.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3.gap-4.mt-10 p{
+    color: #818597;
+}
+body > div > section.relative.mt-\[190px\].overflow-hidden > div > div.w-full.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3.gap-4.mt-10 a{
+    color: #0B72E7;
+}
+.col{
+    /* color: #9B9EAD; */
+}
