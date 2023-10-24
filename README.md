@@ -1,24 +1,21 @@
-## ⭐ Razorpay Clone ⭐
+# Razorpay-Clone
+This is a clone website for Razorpay, a popular online payments platform in India. The website is built using HTML and Tailwind CSS, a utility-first CSS framework that makes it easy to style and layout web pages.
 
-It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
+# Features
+The website includes the following pages and features:
+Home page with an overview of the services offered by Razorpay and a call-to-action button to sign up
+Pricing page with a comparison table of different pricing plans and a sign-up form
+Contact page with a form to submit inquiries or feedback
+About page with information about the company and its mission
+Footer section with links to social media profiles and legal pages
+Responsive design that adapts to different screen sizes and devices
 
-⭕ **This Site is Fully Responsive**
-<br>
-<br>
+# Getting Started
+To run the website locally, you can follow these steps :
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+Clone the repository to your local machine:
+Open the index.html file in your web browser
+Modify the HTML and CSS files as needed to customize the website
 
-<br>
-
-## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-<br>
-<br>
-
-## 📬 Connect With Me
-
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+# Credits
+The website design and content is based on the official Razorpay website (https://razorpay.com/), with some modifications to fit the scope of this project. The Tailwind CSS framework is used for styling and layout, with some custom CSS added for additional features.
